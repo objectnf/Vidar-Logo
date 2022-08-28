@@ -44,6 +44,27 @@ Logo design for Vidar-Team.
 
 -- By 稳赚
 
+## Logo 橙蓝
+
+<img src="Logo%20%E6%A9%99%E8%93%9D/%E6%A9%99%E8%93%9Dlogo-PNG.png?raw=true" width="60%" height="60%"/>
+
+<img src="Logo%20%E6%A9%99%E8%93%9D/%E6%A9%99%E8%93%9D%E4%BC%9A%E6%9C%8D.png?raw=true" width="60%" height="60%"/>
+
+
+## Logo qz
+
+<img src="Logo%20qz/qz%E8%AE%BE%E8%AE%A1%E7%9A%84Logo_Preview.png?raw=true" width="60%" height="60%"/>
+
+-- By qz
+
+## Logo 异体字
+
+<img src="Logo%20%E5%BC%82%E4%BD%93%E5%AD%97/Vidar%E5%BC%82%E4%BD%93%E5%AD%97LogoObjNF_%E6%9D%A1%E7%A0%81_Preview1.png?raw=true" width="60%" height="60%"/>
+
+<img src="Logo%20%E5%BC%82%E4%BD%93%E5%AD%97/Vidar%E5%BC%82%E4%BD%93%E5%AD%97LogoObjNF_%E5%8F%8C%E6%8E%92_Preview.png?raw=true" width="60%" height="60%"/>
+
+-- By ObjectNotFound
+
 ## License
 GPL © [Cyris](https://github.com/iCyris). All rights reserved.
 
