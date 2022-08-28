@@ -38,6 +38,12 @@ Logo design for Vidar-Team.
 
 -- By 稳赚
 
+## 2020 - HGAME
+
+<img src="2020-HGAME/hgame2020.png?raw=true" width="60%" height="60%"/>
+
+-- By 稳赚
+
 ## License
 GPL © [Cyris](https://github.com/iCyris). All rights reserved.
 
